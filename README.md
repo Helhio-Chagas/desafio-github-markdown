@@ -81,6 +81,7 @@ Tabelas:
 
 ## 🛠️ Habilidades
 
+<p align="Center"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="80px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualbasic/visualbasic-original.svg" width="80px" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="80px"/></p>
 
 
 ## 🖇️ Colaborando
