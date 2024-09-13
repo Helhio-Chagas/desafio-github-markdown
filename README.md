@@ -91,5 +91,6 @@ Tabelas:
 ## ✒️ Desenvolvedor
 
 * **Hélio Chagas** - [desenvolvedor](https://github.com/Helhio-Chagas)
+* 📧 [Acesse o meu linkedin](https://www.linkedin.com/in/heliochagas/)
 
 
